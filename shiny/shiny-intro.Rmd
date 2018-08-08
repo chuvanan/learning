@@ -1,0 +1,28 @@
+---
+title: "Absolute beginner's guide to Shiny"
+author: "An Chu"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      ratio: 16:9
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+background-image: url(http://hexb.in/vector/shiny.svg)
+background-size: contain
+
+---
+
+class: inverse, middle, center
+
+# Web Application
+
